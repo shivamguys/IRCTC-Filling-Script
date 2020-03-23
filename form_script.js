@@ -73,3 +73,37 @@ document.querySelectorAll("button")[2].click();
 
 
 
+// From
+
+document.querySelectorAll("input[placeholder='From*']")[0].value="GHAZIPUR CITY - GCT";
+document.querySelectorAll("input[placeholder='From*']")[0].dispatchEvent(new Event('keydown'));
+document.querySelectorAll("input[placeholder='From*']")[0].dispatchEvent(new Event('input'));
+
+
+
+// To
+document.querySelectorAll("input[placeholder='To*']")[0].value="JALANDHAR CANT - JRC";
+document.querySelectorAll("input[placeholder='To*']")[0].dispatchEvent(new Event('keydown'));
+document.querySelectorAll("input[placeholder='To*']")[0].dispatchEvent(new Event('input'));
+
+
+
+// date
+
+document.querySelectorAll("input[placeholder='Journey Date(dd-mm-yyyy)*']")[0].value="03-04-2020";
+document.querySelectorAll("input[placeholder='Journey Date(dd-mm-yyyy)*']")[0].dispatchEvent(new Event('keydown'));
+document.querySelectorAll("input[placeholder='Journey Date(dd-mm-yyyy)*']")[0].dispatchEvent(new Event('input'));
+
+
+
+
+
+// Find Train
+
+document.querySelectorAll("button[type='submit']")[1].click();
+
+
+
+
+
+

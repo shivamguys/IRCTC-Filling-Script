@@ -31,6 +31,9 @@ Add multiple bookmarks to ease your flow with specific clicks
     b[1] && (b[1].value = '22', b[1].dispatchEvent(new Event('input')));
     c[1] && (c[1].value = 'M', c[1].dispatchEvent(new Event('change')));
     d[1] && (d[1].value = 'SL', d[1].dispatchEvent(new Event('change')));
+    
+[![Demo Script](https://gifs.com/gif/irctc-script-wVl73X)]
+
         
 # Example to make payment through upi add this as bookmark value
     javascript:
@@ -83,6 +86,7 @@ Add multiple bookmarks to ease your flow with specific clicks
 # Find Train
 
     document.querySelectorAll("button[type='submit']")[1].click();
+
 
 
 

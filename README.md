@@ -1,7 +1,7 @@
 # IRCTC-Filling-Script
 
 
-[![Demo Script](https://j.gifs.com/ZYRrJQ.gif)]
+!(https://j.gifs.com/gZPMr3.gif)
 
 Add multiple bookmarks to ease your flow with specific clicks
 

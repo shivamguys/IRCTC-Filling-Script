@@ -36,6 +36,14 @@ Add multiple bookmarks to ease your flow with specific clicks
     javascript:
      document.getElementById('2').click();document.querySelectorAll("button[type='submit']")[1].click();
 
+
+# For Review Check @contributed by shivam_pandey
+
+    document.getElementById('credit_117').click();
+    document.getElementsByClassName('btn_continue ng-star-inserted')[0].click();
+
+
+
     
   
 # For final paytm booking @contributed by shivam_pandey

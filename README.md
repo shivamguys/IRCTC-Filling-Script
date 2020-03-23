@@ -1,5 +1,8 @@
 # IRCTC-Filling-Script
 
+
+[![Demo Script](https://j.gifs.com/ZYRrJQ.gif)]
+
 Add multiple bookmarks to ease your flow with specific clicks
 
 # To Add multiple passenger list just add new array element
@@ -32,7 +35,7 @@ Add multiple bookmarks to ease your flow with specific clicks
     c[1] && (c[1].value = 'M', c[1].dispatchEvent(new Event('change')));
     d[1] && (d[1].value = 'SL', d[1].dispatchEvent(new Event('change')));
     
-[![Demo Script](https://j.gifs.com/wVl73X.gif)]
+
 
         
 # Example to make payment through upi add this as bookmark value
